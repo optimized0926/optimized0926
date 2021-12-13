@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+
+
 - ✨ Having +7 years of software development, I have been participated in the massive commercial projects development.
 - 🌱 I would always love to learn new thing innovative and revolutionary. 
 - 🔭 I am currently learning and developing Blockchain technology.

@@ -27,4 +27,5 @@ Here are some ideas to get you started:
 
 
 ### Core Stacks:
-![logo](https://user-images.githubusercontent.com/95038746/145814113-be2132b1-14a8-4423-8f0c-40c910ce2940.png)
+                ![Untitled-9](https://user-images.githubusercontent.com/95038746/145815916-cb18376b-9d58-4115-9201-55fa4d2c213b.png)
+

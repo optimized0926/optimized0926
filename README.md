@@ -33,5 +33,5 @@ Here are some ideas to get you started:
 
 ### Latest Project
 
-- [] https://github.com/AwesomeCodeClimber/React-Ethereum-dApp-Project
-- [] https://github.com/AwesomeCodeClimber/Uniswap_Interface
+- [ ] https://github.com/AwesomeCodeClimber/React-Ethereum-dApp-Project
+- [ ] https://github.com/AwesomeCodeClimber/Uniswap_Interface

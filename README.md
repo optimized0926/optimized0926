@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 
-- ✨ Having +7 years of software development, I have been participated in the massive commercial projects development.
+- ✨ With +7 years and +20000 hours of experiences in software development, I have been participated in the massive commercial projects development.
 - 🌱 I would always love to learn new thing innovative and revolutionary. 
 - 🔭 I am currently learning and developing Blockchain technology.
 - 📫 How to reach me: codeclimber55786@gmail.com  &&  skype: live:.cid.58eb364829e45eb6

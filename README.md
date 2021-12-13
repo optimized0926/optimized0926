@@ -31,3 +31,7 @@ Here are some ideas to get you started:
 
 ![3](https://user-images.githubusercontent.com/95038746/145821853-c3199cba-d15b-4818-815f-7889c4fb01b8.png)
 
+### Latest Project
+
+https://github.com/AwesomeCodeClimber/React-Ethereum-dApp-Project
+https://github.com/AwesomeCodeClimber/Uniswap_Interface

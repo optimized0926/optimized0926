@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome! 👋
 
 <!--
 **AwesomeCodeClimber/AwesomeCodeClimber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 
 
-
-- ✨ With +7 years and +20000 hours of experiences in software development, I have been participated in the massive commercial projects development.
+### About Me:
+- ✨ I am a Full Stack Developer and have been involving myself in software development for over 6 years.
 - 🌱 I would always love to learn new thing innovative and revolutionary. 
 - 🔭 I am currently learning and developing Blockchain technology.
 - 📫 How to reach me: codeclimber55786@gmail.com  &&  skype: live:.cid.58eb364829e45eb6

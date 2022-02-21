@@ -29,7 +29,6 @@ Here are some ideas to get you started:
   <img alt="appearience" align="center" src="https://s10.gifyu.com/images/bot0a73898a357f5b35.gif" />
 </code>
 
-### Core Stacks:
 
 [<code>
 <img alt="visual studio code" width="60px" style="background: black;" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />

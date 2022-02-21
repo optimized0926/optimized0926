@@ -11,12 +11,7 @@ As a software engineer, I enjoy using my professional attention to detail, my un
 
 **Talking about Personal Stuffs:**
 
-- 👨🏻‍💻 I've mastered Javascript-tech tool and frameworks.
-- 🚀 I have huge experience in application related with blockchain-tech.
-- 💬 Ask me about anything, I am happy to help.
-- 📫 How to reach me: codeclimber55786@gmail.com.
-<a href="mailTo:codeclimber55786@gmail.com"></a>
-
+<img alt="experience" src="https://svgshare.com/i/ePA.svg" />
 </br>
 
 📊 **This Week I Spent My Time On:**

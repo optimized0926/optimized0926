@@ -12,6 +12,9 @@ As a software engineer, I enjoy using my professional attention to detail, my un
 **Talking about Personal Stuffs:**
 
 <img alt="experience" src="https://svgshare.com/i/ePA.svg" />
+![](./experience.svg)
+[<img src="./experience.svg">]()
+![](https://my.mixtape.moe/xnaieq.svg)
 </br>
 
 📊 **This Week I Spent My Time On:**

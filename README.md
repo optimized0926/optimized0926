@@ -3,7 +3,7 @@
 ### Glad to see you here! &nbsp; 
 
 [<img background="black" src="./experience.svg">]()
-<p>
+<p style="background: black;">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS03kU4dJIELF0cQ2-3RDOdddELLgszn2inLQ&usqp=CAU" width="48" height="48" alt="React Logo">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="48" alt="javascript logo">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="48" alt="html Logo">
@@ -18,7 +18,7 @@
 <img src="https://seeklogo.com/images/G/git-logo-CD8D6F1C09-seeklogo.com.png" width="48" alt="Git Logo">
 </p>
 
-[<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />]
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
 
 
 **Talking about Personal Stuffs:**

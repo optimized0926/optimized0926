@@ -6,19 +6,22 @@ I am a full-stack software engineer and writer. I love programming, writing, spe
 
 As a software engineer, I enjoy using my professional attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
-
+[<img src="./experience.svg">]()
 [<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />]
-  
+
 
 **Talking about Personal Stuffs:**
 
 [<img src="./chart.svg">]()
-[<img src="./experience.svg">]()
-![](https://my.mixtape.moe/xnaieq.svg)
 </br>
 
 📊 **This Week I Spent My Time On:**
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS03kU4dJIELF0cQ2-3RDOdddELLgszn2inLQ&usqp=CAU" width="48" height="48" alt="React Logo"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="48" alt="javascript logo"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="48" alt="html Logo"> <img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" width="48" alt="php Logo"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="48" alt="Python Logo">
+<br>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS03kU4dJIELF0cQ2-3RDOdddELLgszn2inLQ&usqp=CAU" width="48" height="48" alt="React Logo"> 
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="48" alt="javascript logo"> 
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="48" alt="html Logo">
+<img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" width="48" alt="php Logo"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="48" alt="Python Logo">
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL1ziFNu-3pS3vnTjouCUBSxA8hKdLnJcVTA&usqp=CAU" width="48" height="48" alt="parrot os logo"> 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width="48" alt="typescript logo"> 

@@ -47,9 +47,13 @@
 
 **Talking about Personal Stuffs:**
 
-Aim a professional software developer focused on full-stack development.
-I translate client's great idea to a fully-functional system.
+I'm a Senior Software Developer Javascript Related Technology.
+<br />
+I Build Well-Structured Software Based On SOLID & DRY & KISS Principle.
+I Translate Client's Great Idea To A Fully-Functional System.
+<br />
 Please Contact Me: codeclimber55786@gmail.com
+<br />
 
 [<img src="./chart.svg">]()
 </br>

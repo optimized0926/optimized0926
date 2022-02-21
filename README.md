@@ -25,9 +25,8 @@ Here are some ideas to get you started:
 - 😄 The greatest success comes from the biggest challenge!
 - ⚡ I love to play Football and Tennis in my free time.
 
-![](https://s10.gifyu.com/images/bot0a73898a357f5b35.gif)
 [<code>
-  <img alt="appearience" style="text-align: center;" src="https://s10.gifyu.com/images/bot0a73898a357f5b35.gif" />
+  <img alt="appearience" style="display:flex; margin: auto;" src="https://s10.gifyu.com/images/bot0a73898a357f5b35.gif" />
 </code>]
 
 

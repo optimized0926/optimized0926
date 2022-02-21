@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - ⚡ I love to play Football and Tennis in my free time.
 
 <code>
-  <img alt="appearience" display="flex" margin="auto" style="display:flex !important; margin: auto !important;" src="https://s10.gifyu.com/images/bot0a73898a357f5b35.gif" />
+  <img alt="appearience" align="center" src="https://s10.gifyu.com/images/bot0a73898a357f5b35.gif" />
 </code>
 
 ### Core Stacks:

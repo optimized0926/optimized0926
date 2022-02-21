@@ -1,6 +1,6 @@
 ### Hi there, I'm <a href="https://gkassym.netlify.app" target="_blank">Igor Ogerenko</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Gapur.Gapur)
+### Glad to see you here! &nbsp; 
 
 I am a full-stack software engineer and writer. I love programming, writing, speaking and traveling.
 
@@ -11,10 +11,11 @@ As a software engineer, I enjoy using my professional attention to detail, my un
 
 **Talking about Personal Stuffs:**
 
-- 👨🏻‍💻 I've mastered Javascript-tech tool and frameworks.;
+- 👨🏻‍💻 I've mastered Javascript-tech tool and frameworks.
 - 🚀 I have huge experience in application related with blockchain-tech.
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: codeclimber55786@gmail.com;
+- 💬 Ask me about anything, I am happy to help.
+- 📫 How to reach me: codeclimber55786@gmail.com.
+<a href="mailTo:codeclimber55786@gmail.com"></a>
 
 </br>
 

@@ -47,13 +47,13 @@
 
 **Talking about Personal Stuffs:**
 
-I'm a Senior Software Developer Javascript Related Technology.
+- 👨🏻‍💻 I'm a Senior Software Developer Javascript Related Technology.
 <br />
-I Build Well-Structured Software Based On SOLID & DRY & KISS Principle.
+- 📝 I Build Well-Structured Software Based On SOLID & DRY & KISS Principle.
 <br />
-I Translate Client's Great Idea To A Fully-Functional System.
+- 🚀 I Translate Client's Great Idea To A Fully-Functional System.
 <br />
-Please Contact Me: codeclimber55786@gmail.com
+- 📫 How to reach me: codeclimber55786@gmail.com
 <br />
 
 [<img src="./chart.svg">]()

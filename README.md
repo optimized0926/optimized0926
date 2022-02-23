@@ -53,8 +53,6 @@
 <br />
 - 🚀 I Translate Client's Great Idea To A Fully-Functional System.
 <br />
-- 📫 How to reach me: codeclimber55786@gmail.com
-<br />
 
 [<img src="./chart.svg">]()
 </br>

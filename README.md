@@ -47,9 +47,10 @@
 
 **Talking about Personal Stuffs:**
 
-- 👨🏻‍💻 I'm a Senior Software Developer Javascript Related Technology.
-- 📝 I Build Well-Structured Software Based On SOLID & DRY & KISS Principle.
+- 👨🏻‍💻 I'm a Senior Software Developer since 2015.
+- 📝 I Build Well-Structured Software Based On SOLID/DRY/KISS Principle.
 - 🚀 I Translate Client's Great Idea To A Fully-Functional System.
+- 👍 Please contact me and build your dream come true!
 <br />
 
 [<img src="./chart.svg">]()
